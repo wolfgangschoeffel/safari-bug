@@ -1,7 +1,7 @@
 Possible Safari Bug
 ==========
 
-Demo page for showing a possible safari bug
+Demo: http://wolfgangschoeffel.github.io/safari-bug/
 
 # Browser version
 
@@ -25,4 +25,4 @@ Using JavaScript, when you remove the top margin of an html element and immediat
 most of the time you notice a little flicker.
 
 # Other browsers
-In chrome 35.0.1916.153 or Firefox 29.0.1 this is not noticable.
+In Chrome 35.0.1916.153 or Firefox 29.0.1 this is not noticable.
