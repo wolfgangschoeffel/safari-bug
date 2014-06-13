@@ -5,6 +5,8 @@ Demo: http://wolfgangschoeffel.github.io/safari-bug/
 
 In the wild: http://moresoon.org/
 
+Screnn capture:  http://wolfgangschoeffel.github.io/safari-bug/safari-bug.mov
+
 # Browser version
 
 Safari  7.0.3 (9537.75.14)
