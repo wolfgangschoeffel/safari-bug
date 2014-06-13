@@ -1,7 +1,7 @@
-safari-bug
+Possible Safari Bug
 ==========
 
-Demo Page for showing a possible safari bug
+Demo page for showing a possible safari bug
 
 # Browser version
 
@@ -19,9 +19,10 @@ Mac OS X Version 10.9.3
 * 8 GB 1600 MHz DDR3
 * Intel HD Graphics 4000 
 
-# Description of the possible bug
+# Description of the bug
 
 Using JavaScript, when you remove the top margin of an html element and immediately after that scroll to the top of that element,
 most of the time you notice a little flicker.
 
+# Other browsers
 In chrome 35.0.1916.153 or Firefox 29.0.1 this is not noticable.
