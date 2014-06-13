@@ -3,6 +3,8 @@ Possible Safari Bug
 
 Demo: http://wolfgangschoeffel.github.io/safari-bug/
 
+In the wild: http://moresoon.org/
+
 # Browser version
 
 Safari  7.0.3 (9537.75.14)
