@@ -5,7 +5,7 @@ Demo: http://wolfgangschoeffel.github.io/safari-bug/
 
 In the wild: http://moresoon.org/
 
-Screnn capture:  http://wolfgangschoeffel.github.io/safari-bug/safari-bug.mov
+Screen capture:  http://wolfgangschoeffel.github.io/safari-bug/safari-bug.mov
 
 # Browser version
 
